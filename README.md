@@ -1,5 +1,10 @@
 # Nertivia.py
 This is an API Wrapper for the Nertiva chat platform
+
+## IMPORTANT
+
+Outdated/deprecated and no longer supported. Use https://github.com/FluxedScript/PNA instead.
+
 ## Installation
 You can install `nertivia.py` with pip using
 `pip install nertivia`
